@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['bodaboda', 'bus', 'matatu', 'tuktuk']
+
+roboflow:
+  workspace: annotate-1iq09
+  project: psv-detection
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/annotate-1iq09/psv-detection/dataset/4
