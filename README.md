@@ -8,12 +8,6 @@ This repository contains three Jupyter Notebooks dedicated to analyzing and impr
   - [Objective1_Capstone.ipynb](#objective1_capstoneipynb)
   - [Objective2_Capstone.ipynb](#objective2_capstoneipynb)
   - [Objective3_Capstone.ipynb](#objective3_capstoneipynb)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 ## Project Overview
 Public Service Vehicles (PSVs)—such as buses, matatus, and other forms of public transport—require efficient management for effective operation. 
